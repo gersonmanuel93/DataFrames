@@ -20,15 +20,6 @@ O objetivo deste projeto é servir como base de estudo e referência para manipu
 * Google Colab
 * VS Code
 
-## Estrutura do Projeto
-
-DataFrames/
-│
-├── src/                # Scripts e funções Python
-├── data/               # Dados brutos ou exemplos
-├── notebooks/          # Jupyter Notebooks
-└── README.md           # Documentação do projeto
-
 ## Conteúdo
 
 | Tópico                | Descrição                                                         |
